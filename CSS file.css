@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poopins', sans-serif;
+}
+
+body{
+    font-size: 25px;
+    background-color: black;
+    color: cyan;
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    margin-top: 20px;
+}
+h3 {
+    text-align: center;
+    color: yellow;
+    margin-top: 10px;
+}
+.lable {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+p {
+    margin-left: 30px;
+}
+
+button{
+    background-color: yellow;
+    color: blue;
+    font-size: 25px;
+    padding: 7px;
+    margin-left: 95px;
+
+}
+
+.note{
+    color: rgb(92, 251, 0);
+}
